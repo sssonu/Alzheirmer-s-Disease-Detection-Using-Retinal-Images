@@ -1,7 +1,6 @@
 # Early Detection of Alzheimer's Disease  
 **AI-Based Retinal OCT Analysis for Non-Invasive Screening**
 
----
 
 ## Overview  
 This project presents an **AI-driven, non-invasive solution** for the **early detection of Alzheimer’s Disease (AD)** using **Optical Coherence Tomography (OCT)** retinal images. By leveraging deep learning, the system segments key retinal layers—**Retinal Nerve Fiber Layer (RNFL)** and **Ganglion Cell Layer (GCL)**—and uses their thickness as biomarkers to predict AD risk.
@@ -12,7 +11,6 @@ The approach combines:
 
 This pipeline offers a **scalable, cost-effective alternative** to traditional diagnostics like MRI and PET scans—especially valuable in low-resource settings.
 
----
 
 ## Key Features  
 
@@ -31,7 +29,6 @@ This pipeline offers a **scalable, cost-effective alternative** to traditional d
 **Modular & Extensible Architecture**  
 - Designed for easy integration with real-world clinical workflows or multimodal data (e.g., cognitive tests, blood biomarkers)
 
----
 
 ## Methodology  
 
@@ -46,7 +43,6 @@ This pipeline offers a **scalable, cost-effective alternative** to traditional d
 
 > **Note**: Due to limited availability of labeled clinical AD-OCT datasets, the project uses **synthetic data** generated from peer-reviewed medical literature.
 
----
 
 ## Technology Stack  
 
@@ -60,7 +56,6 @@ This pipeline offers a **scalable, cost-effective alternative** to traditional d
 - **Hardware**: Trained on **Google Colab** (NVIDIA Tesla T4 GPU, 12GB RAM)  
 - **Data Source**: University of Waterloo OCT Dataset (2018)
 
----
 
 ## Performance Metrics  
 
